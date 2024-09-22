@@ -262,7 +262,7 @@
 (warmerthanhell (album_name "Back from the Dead"))
 (warpigs (name "War Pigs (Cover)") (album_art TRUE))
 (wastedyears (album_name "Somewhere in Time") (album_track_number 2))
-(wearetheroadcrew (name "(We Are) The Road Crew") (album_name "Motörhead Rock Band Re-Records") (album_track_number 2))
+(wearetheroadcrew (name "(We Are) The Road Crew") (artist "Motörhead") (album_name "Motörhead Rock Band Re-Records") (album_track_number 2))
 (wheresgary (genre rock))
 (whiteunicorn (genre hardrock))
 (whoamiwhatsmyname (genre hiphoprap))
@@ -276,7 +276,7 @@
 (youshookme_live (album_name "Live at Donington"))
 
 ; Rock Band 2 changes
-(aceofspades (name "Ace of Spades") (year_recorded 2008) (album_name "Motörhead Rock Band Re-Records"))
+(aceofspades (name "Ace of Spades") (artist "Motörhead") (year_recorded 2008) (album_name "Motörhead Rock Band Re-Records"))
 (alexchilton (genre punk) (album_name "Pleased to Meet Me"))
 (chopsuey (name "Chop Suey!"))
 (deluxe (album_name "Mad Love") (album_track_number 1))
